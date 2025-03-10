@@ -39,8 +39,6 @@ code ~/.config/nvim/init.vim
 Dentro de él puedes añadir el siguiente código para instalar plugins:
 
 ```vim
-
-```bash
 call plug#begin()
 
 " List your plugins here
