@@ -47,7 +47,14 @@ Plug 'tpope/vim-sensible'
 call plug#end()
 ```
 
-Ahora puedes abrir Neovim y ejecutar el siguiente comando para instalar los plugins:
+Ahora puedes abrir Neovim
+
+
+```bash
+nvim
+```
+
+y ejecutar el siguiente comando para instalar los plugins:
 
 ```bash
 :PlugInstall
@@ -67,7 +74,13 @@ Plug 'github/copilot.vim'
 code ~/.config/nvim/init.vim
 ```
 
-Cierra Neovim y vuelve a abrirlo. Ahora ejecuta el siguiente comando para instalar los plugins:
+Cierra Neovim y vuelve a abrirlo.
+
+```bash
+nvim
+```
+
+Ahora ejecuta el siguiente comando para instalar los plugins:
 
 ```bash
 :PlugInstall
@@ -82,6 +95,12 @@ Ahora, para poder usar Github Copilot en Neovim, necesitas autenticarte. Para el
 
 ```bash
 :Copilot setup
+```
+
+Ahora prueba a abrir un archivo con Neovim y comienza a escribir:
+
+```bash
+nvim app.js
 ```
 
 ### Otros plugins chulos para Neovim
