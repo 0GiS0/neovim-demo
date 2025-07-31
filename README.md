@@ -1,5 +1,7 @@
 # Cómo empezar con Neovim
 
+> **Idioma:** **Español** | [English](README.en.md)
+
 ¡Hola developer 👋🏻! En este repo tienes todo lo que necesitas para probar Neovim, dentro de Visual Studio Code usando Dev Containers 🤓 Por lo que no necesitas instalar Neovim en tu máquina local si no quieres. Si quieres saber más sobre Dev Containers puedes echar un vistazo a este vídeo de mi canal de YouTube:
 
 
